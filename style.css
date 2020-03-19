@@ -1,0 +1,50 @@
+* {
+    font-family : sans-serif;
+}
+
+body {
+    text-align : center;
+}
+
+#choosing-box {
+    border : 1px solid grey;
+    border-radius : 5px;
+    width : 50%;
+    padding : 10px;
+    margin: auto auto;
+}
+
+form,
+#main-content {
+    display : none;
+}
+
+#board-manager {
+    display: none;
+}
+
+#main-content {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+table#game-board {
+    display: none;
+    border : 1px solid grey;
+    width: 550px;
+    margin: auto;
+}
+
+table#game-board td {
+    width: 80px;
+    height : 50px;
+    padding : 50px;
+    font-size : 50px;
+    color : orange;
+    border : 1px solid grey;
+    background-color : gainsboro;
+}
+
+table#game-board td input {
+    display : none;
+}
