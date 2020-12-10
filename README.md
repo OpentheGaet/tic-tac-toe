@@ -6,8 +6,8 @@ A tic tac toe game made with javaScript
 
 This game is made with the javaScript using es6 class.
 
-The purpose is simply to create a tic tac toe game splited in different modules so that to organize like
-the MVC design patternn using the object oriented paradigm with javaScript.
+The purpose is simply to create a tic tac toe game splited in different modules so that to organize the code with
+the MVC design pattern, using the object oriented paradigm with javaScript.
 
 So, the game is composed with an handler event that fires the different events that run the game itself.
 
